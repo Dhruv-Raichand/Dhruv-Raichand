@@ -9,7 +9,7 @@ I'm **Dhruv Raichand**, a final-year Computer Science student and MERN Stack Dev
 
 I build modern, scalable full-stack web applications with a focus on clean architecture, performance, and real-world usability.
 
-**Tech Stack:** React, Next.js, Redux Toolkit, Node.js, Express, MongoDB, Tailwind CSS, AWS EC2, Nginx, PM2
+**Tech Stack:** React, Next.js, Redux Toolkit, Node.js, Express, MongoDB, Tailwind CSS, TypeScript, AWS
 
 **Featured Projects:**
 - **[DevLink](https://linkdev.online)** - Full-stack networking platform with real-time chat and JWT auth | [Frontend](https://github.com/Dhruv-Raichand/devlink-frontend) | [Backend](https://github.com/Dhruv-Raichand/devlink-backend)
